@@ -1,6 +1,6 @@
 package hw1;
 
-public class Q1 {
+public class Q01 {
 	/*
 	 * - The method is public, has static keyword and a parameter which is a String array. 
 	 * 

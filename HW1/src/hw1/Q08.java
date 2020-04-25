@@ -1,6 +1,6 @@
 package hw1;
 
-public class Q8 {
+public class Q08 {
 	// Add 5 to the result
 	
 	/*** TODO: Fix bug 12312 ***/

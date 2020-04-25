@@ -1,7 +1,7 @@
 package hw2;
 
-// Class name must be changed to Q9.
-public class Q9 {
+// Class name must be changed to Q09.
+public class Q09 {
 	int a = Integer.valueOf("1");
 	public static void main(String[] nums) {
 		int a = Integer.valueOf("2");
@@ -16,7 +16,7 @@ public class Q9 {
 
 //Original code
 /*
-public class Q9 {
+public class Q09 {
 	integer a = Integer.valueOf("1");
 	public static void main(String[] nums) {
 		integer a = Integer.valueOf("2");

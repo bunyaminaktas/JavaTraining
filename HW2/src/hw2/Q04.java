@@ -1,6 +1,6 @@
 package hw2;
 
-public class Q4 {
+public class Q04 {
 	/*
 	 * An identifier can begin with a letter, $ and _. Subsequent caharcters can be numbers.
 	 */

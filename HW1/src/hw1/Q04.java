@@ -6,7 +6,7 @@ import java.sql.*;
 
 // Class name must same with the file name.
 // A separate class is created with a name "BirthdayManager", then it cannot have access modifier.
-public class Q4 {
+public class Q04 {
 	/*
 	 * - Because there are two classes that have same name in two different libraries,
 	 * we should explicitly state which library's class is meant to be used.
