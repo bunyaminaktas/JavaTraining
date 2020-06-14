@@ -9,7 +9,7 @@ public class Q08 {
 		museums.add("Natural History");
 		museums.add("Science");
 		museums.add("Art");
-		museums.remove(2);
+		museums.remove(2);	// removes the third element which is "Art".
 		System.out.println(museums);
 	}
 

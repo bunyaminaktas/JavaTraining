@@ -14,6 +14,8 @@ public class Q26 {
 		
 		// This line is correct but since the variable name is used as main() method's parameter name, it does not compile.
 		//Predicate<String> pred3 = (String s) -> true; 
+		
+		Predicate<String> pred3 = (String s1) -> true; 
 	}
 
 }

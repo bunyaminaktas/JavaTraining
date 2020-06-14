@@ -6,6 +6,6 @@ public class Q06 {
 		tools.add("hammer");
 		tools.add("nail");
 		tools.add("hex key");
-		System.out.println(tools.get(1));
+		System.out.println(tools.get(1));	// access to the second element of tools.
 	}
 }
